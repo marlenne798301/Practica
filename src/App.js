@@ -17,7 +17,7 @@ function openGit(){
   window.open("https://github.com/marlenne798301");
 }
 function openFace(){
-  window.open("https://www.facebook.com/marlenne.ibarra.5");
+  window.open("https://www.facebook.com/marlenne.ibarra.5"); 
 }
 
 
